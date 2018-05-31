@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "792042952624",
+    "firebase_url": "https://version10-e6015.firebaseio.com",
+    "project_id": "version10-e6015",
+    "storage_bucket": "version10-e6015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792042952624:android:42128f52a8ab4454",
+        "android_client_info": {
+          "package_name": "com.example.sankeerthana.version10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792042952624-8o9uf3advul0e0diduks66aeofcan5f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sankeerthana.version10",
+            "certificate_hash": "2a47e488d76b3fcd5ae09e4514e20a9f2831d221"
+          }
+        },
+        {
+          "client_id": "792042952624-36b427ds0r57pu1r15gkbj3gsrfn895m.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "792042952624-36b427ds0r57pu1r15gkbj3gsrfn895m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMnDwwv5IANHiAf4MQ9y2xz-EBp5rB2xQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792042952624-36b427ds0r57pu1r15gkbj3gsrfn895m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
